@@ -12,7 +12,7 @@
 * [第11週 (20200513)]()
 * [第12週 (20200520)]()
 * [第13週 (20200527)](https://github.com/z002020821/Linux_note/blob/master/20200527_%E4%B8%8A%E8%AA%B2%E7%AD%86%E8%A8%98.md) -- 負載均衡(LVS-NAT架構)
-* [第14週 (20200603)](https://github.com/z002020821/Linux_note/blob/master/20200603_%E4%B8%8A%E8%AA%B2%E7%AD%86%E8%A8%98.md) -- 負載均衡(使用mininet實作LVS-NAT)
-* [第15週 (20200610)]()
-* [第16週 (20200617)]()
+* [第14週 (20200603)](https://github.com/z002020821/Linux_note/blob/master/20200603_%E4%B8%8A%E8%AA%B2%E7%AD%86%E8%A8%98.md) -- 負載均衡(使用mininet實作LVS架構)
+* [第15週 (20200610)](https://github.com/z002020821/Linux_note/blob/master/20200610_%E4%B8%8A%E8%AA%B2%E7%AD%86%E8%A8%98.md) -- 負載均衡(HAProxy)&sed的使用方式
+* [第16週 (20200617)](https://github.com/z002020821/Linux_note/blob/master/20200617_%E4%B8%8A%E8%AA%B2%E7%AD%86%E8%A8%98.md) -- Linux系統優化
 * 第17週 (20200624) -- 期末報告
